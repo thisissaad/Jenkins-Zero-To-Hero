@@ -58,6 +58,9 @@ Steps:
     7. Run the Jenkins pipeline:
        7.1 Trigger the Jenkins pipeline to start the CI/CD process for the Java application.
        7.2 Monitor the pipeline stages and fix any issues that arise.
+       
+![sonarqube](https://github.com/thisissaad/Jenkins-Zero-To-Hero/assets/162448656/a816dab9-8e0c-401a-9223-072b6a0c9462)
+
 
 ![deployment](https://github.com/thisissaad/Jenkins-Zero-To-Hero/assets/162448656/879f27b6-a0bf-44a4-a147-6effa543833c)
 
